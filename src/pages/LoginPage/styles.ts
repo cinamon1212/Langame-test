@@ -1,4 +1,4 @@
-import { registrationPagePath } from '@/constants'
+// import { registrationPagePath } from '@/constants'
 import { defineStyle } from '@chakra-ui/react'
 
 export const dontHaveAccTextStyles = defineStyle({
@@ -11,5 +11,5 @@ export const registrationLinkStyles = defineStyle({
   fontSize: '14px',
   lineHeight: '14px',
   color: 'primary.100',
-  href: registrationPagePath,
+  // href: registrationPagePath,
 })
