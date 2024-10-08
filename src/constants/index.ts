@@ -1,0 +1,6 @@
+export { footerLinks } from './footerLinks'
+export { successInputsInitialValue } from './successInputsInitialValue'
+export { affordableRates } from './affordableRates'
+export { features } from './features'
+export { services } from './services'
+export * from './paths'

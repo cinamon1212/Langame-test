@@ -1,0 +1,1 @@
+export { RegistrationInputs } from './RegistrationInputs'
