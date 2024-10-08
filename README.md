@@ -2,16 +2,16 @@
 
 React, TypeScript, Chakra UI
 
-## 1920x1080 - basic resolution
-
 ## To run locally
 
 ```bash
-git clone https://github.com/cinamon1212/Brainwave-App.git
+git clone https://github.com/cinamon1212/Langame-test.git
 yarn install
 yarn run dev
 ```
 
 ## Link to deployed app
 
-https://brainwave-app-cinamon.vercel.app/
+https://langame-test.vercel.app/
+
+### 1920x1080 - basic resolution
